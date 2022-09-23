@@ -1,0 +1,27 @@
+{
+  "name": "cryptodex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/cryptodex.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoulinLouis/cryptodex.git"
+  },
+  "author": "Louis Moulin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoulinLouis/cryptodex/issues"
+  },
+  "homepage": "https://github.com/MoulinLouis/cryptodex#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0"
+  }
+}
