@@ -4,6 +4,7 @@ const packageJson = require('../package.json');
 
 program
     .version(packageJson.version)
-    .command('key', 'Manage API Key -- https://nomics.com')
+    .command('key', 'Manage API key -- https://nomics.com')
+    .command('check', 'Check coin price info')
     .parse(process.argv);
 
