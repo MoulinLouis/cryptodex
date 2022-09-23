@@ -1,5 +1,5 @@
 # Cryptodex - CLI
-
+![Preview CLI](https://image.noelshack.com/fichiers/2022/38/5/1663945230-preview.png)
 ## How to use
 ```
 git clone https://github.com/MoulinLouis/cryptodex.git
